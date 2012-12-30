@@ -1,10 +1,8 @@
-test
-====
+JSON文件转EXCEL CSV(初级版) = =
 
-test repo = =+
+需要node环境
 
-updat the test repo README
+node json2excel.js test.json
 
-update the test repo REAME~~~~~~~ = = =
+生成test.csv
 
-now I update the test repo~~ = =+

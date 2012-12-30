@@ -1,0 +1,28 @@
+{
+  "list": [
+    {
+      "itemName": "i1",
+      "itemLink": "#",
+      "itemImg": "#",
+      "itemShow": true
+    },
+    {
+      "itemName": "i2",
+      "itemLink": "#",
+      "itemImg": "#",
+      "itemShow": false
+    },
+    {
+      "itemName": "i3",
+      "itemLink": "#",
+      "itemImg": "#",
+      "itemShow": true
+    },
+    {
+      "itemName": "i4",
+      "itemLink": "#",
+      "itemImg": "#",
+      "itemShow": false
+    }
+  ]
+}
